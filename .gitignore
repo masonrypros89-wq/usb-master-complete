@@ -1,0 +1,39 @@
+# Gradle files
+.gradle/
+build/
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Log/OS Files
+*.log
+.DS_Store
+
+# Android Studio generated files and folders
+.idea/
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# Android Studio/IntelliJ
+out/
+.idea_modules/
+*.iml
+*.iws
+*.ipr
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# gradle-wrapper.jar is normally committed, but see
+# https://stackoverflow.com/questions/7905311/help-understanding-gradle-wrapper
+# gradle/wrapper/gradle-wrapper.jar
